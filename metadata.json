@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Nagpur",
+  "description": "Doctor appointment booking, clinic discovery, nearby medical care, and emergency assistance platform for Nagpur, Maharashtra, India.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
